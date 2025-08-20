@@ -70,6 +70,6 @@ Compliance Reporting ✅ Events mapped to compliance frameworks (e.g., GDPR, HIP
 
 Screenshots of each stage are included in the respective folders:
 
-setup/screenshots
+[logs screenshots](./screenshots/logs.md/)
 
-logs/screenshots
+[setup screenshots](./screenshots/setup.md/)
