@@ -11,7 +11,7 @@ Run the following commands:
 sudo apt update && sudo apt upgrade -y
 sudo apt install curl apt-transport-https lsb-release gnupg2 -y
 ```
-📸 Screenshot: ubuntu-updated.png
+📸 Screenshot
 
 ## 🛠️ Step 1 – Wazuh Deployment (Server Side)
 
@@ -20,7 +20,7 @@ Run the following on your Ubuntu Wazuh server:
 curl -sO https://packages.wazuh.com/4.7/wazuh-install.sh
 sudo bash ./wazuh-install.sh -a
 ```
-📸 Screenshot: wazuh-install-finished.png
+![Wazuh Installed](../screenshots/setup.md/wazuh-installed.png)
 
 ## 🖥️ Step 2 – Kali Agent Installation
 
@@ -39,7 +39,7 @@ Then enable and start the agent:
 ```bash
 sudo systemctl enable --now wazuh-agent
 ```
-📸 Screenshot: kali-agent-installed.png
+![Wazuh Agent Kali Installed](../screenshots/setup.md/wazuh-agent-kali-installed.png)  
 
 ## 🔄 Step 3 – Restart Services
 
