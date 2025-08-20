@@ -11,8 +11,6 @@ Run the following commands:
 sudo apt update && sudo apt upgrade -y
 sudo apt install curl apt-transport-https lsb-release gnupg2 -y
 ```
-📸 Screenshot
-
 ## 🛠️ Step 1 – Wazuh Deployment (Server Side)
 
 Run the following on your Ubuntu Wazuh server:
@@ -58,4 +56,4 @@ Navigate to: Agents → Agent status
 
 Confirm your Kali VM agent shows up as Active.
 
-📸 Screenshot: agent-status.png
+![Kali Connected to Wazuh](../screenshots/setup/kali-connected-wazuh.png)
