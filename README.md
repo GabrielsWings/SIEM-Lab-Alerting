@@ -36,7 +36,7 @@ SIEM-Lab/
 │   ├── setup.md
 │   └── screenshots/
 │
-└── logs/                  # Log generation & detection steps
+└── logs/                  # Logs generated
     ├── logs.md
     └── screenshots/
 ```
