@@ -18,7 +18,7 @@ Run the following on your Ubuntu Wazuh server:
 curl -sO https://packages.wazuh.com/4.7/wazuh-install.sh
 sudo bash ./wazuh-install.sh -a
 ```
-![Wazuh Installed](../screenshots/setup.md/wazuh-installed.png)
+<img width="815" height="575" alt="Wazuh Installed" src="https://github.com/user-attachments/assets/ea441d0d-5099-4042-96e7-abb6f34b7c44" />
 
 ## 🖥️ Step 2 – Kali Agent Installation
 
@@ -37,7 +37,7 @@ Then enable and start the agent:
 ```bash
 sudo systemctl enable --now wazuh-agent
 ```
-![Wazuh Agent Kali Installed](../screenshots/setup.md/wazuh-agent-kali-installed.png)  
+<img width="638" height="510" alt="Wazuh Agent Kali Installed" src="https://github.com/user-attachments/assets/f6b28f01-393e-45d3-821a-bbf8cea76763" />
 
 ## 🔄 Step 3 – Restart Services
 
@@ -56,4 +56,5 @@ Navigate to: Agents → Agent status
 
 Confirm your Kali VM agent shows up as Active.
 
-![Kali Connected to Wazuh](../screenshots/setup/kali-connected-wazuh.png)
+<img width="1281" height="875" alt="Kali connected  to Wazuh" src="https://github.com/user-attachments/assets/19bdb8b4-438f-4dba-86ac-96c484ea4f88" />
+
