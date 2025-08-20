@@ -29,5 +29,3 @@ The TSC (Trust Services Criteria) dashboard highlights compliance requirements a
 - Logs are successfully collected from **Kali Linux** into Wazuh.  
 - Compliance checks against **PCI DSS** and **TSC frameworks** were performed.  
 - Event logs confirm that **Wazuh agents are properly configured** and sending data.  
-
-This validates the setup and monitoring skills required for SIEM deployment and compliance management.
