@@ -45,13 +45,13 @@ SIEM-Lab/
 
 Instructions for installing Wazuh and registering the Kali agent are documented in the setup folder.
 
-[setup folder](./setup/)
+[setup folder](./setup.md/)
 
 ## 🔥 Log Generation & Detection
 
 Steps to generate logs on Kali and view them in the Wazuh dashboard are documented in the logs folder.
 
-[logs folder](./logs/)
+[logs folder](./logs.md/)
 
 
 ## 📝 Summary / Results
